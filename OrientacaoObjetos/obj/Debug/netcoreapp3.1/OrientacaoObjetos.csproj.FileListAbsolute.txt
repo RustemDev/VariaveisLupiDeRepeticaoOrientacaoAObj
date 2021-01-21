@@ -1,0 +1,13 @@
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\OrientacaoObjetos\obj\Debug\netcoreapp3.1\OrientacaoObjetos.csprojAssemblyReference.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\OrientacaoObjetos\obj\Debug\netcoreapp3.1\OrientacaoObjetos.AssemblyInfoInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\OrientacaoObjetos\obj\Debug\netcoreapp3.1\OrientacaoObjetos.AssemblyInfo.cs
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\OrientacaoObjetos\obj\Debug\netcoreapp3.1\OrientacaoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\OrientacaoObjetos\bin\Debug\netcoreapp3.1\OrientacaoObjetos.exe
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\OrientacaoObjetos\bin\Debug\netcoreapp3.1\OrientacaoObjetos.deps.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\OrientacaoObjetos\bin\Debug\netcoreapp3.1\OrientacaoObjetos.runtimeconfig.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\OrientacaoObjetos\bin\Debug\netcoreapp3.1\OrientacaoObjetos.runtimeconfig.dev.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\OrientacaoObjetos\bin\Debug\netcoreapp3.1\OrientacaoObjetos.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\OrientacaoObjetos\bin\Debug\netcoreapp3.1\OrientacaoObjetos.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\OrientacaoObjetos\obj\Debug\netcoreapp3.1\OrientacaoObjetos.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\OrientacaoObjetos\obj\Debug\netcoreapp3.1\OrientacaoObjetos.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\OrientacaoObjetos\obj\Debug\netcoreapp3.1\OrientacaoObjetos.genruntimeconfig.cache

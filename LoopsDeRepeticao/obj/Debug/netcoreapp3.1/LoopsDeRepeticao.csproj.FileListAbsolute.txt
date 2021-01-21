@@ -1,0 +1,13 @@
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\LoopsDeRepeticao\bin\Debug\netcoreapp3.1\LoopsDeRepeticao.exe
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\LoopsDeRepeticao\bin\Debug\netcoreapp3.1\LoopsDeRepeticao.deps.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\LoopsDeRepeticao\bin\Debug\netcoreapp3.1\LoopsDeRepeticao.runtimeconfig.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\LoopsDeRepeticao\bin\Debug\netcoreapp3.1\LoopsDeRepeticao.runtimeconfig.dev.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\LoopsDeRepeticao\bin\Debug\netcoreapp3.1\LoopsDeRepeticao.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\LoopsDeRepeticao\bin\Debug\netcoreapp3.1\LoopsDeRepeticao.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\LoopsDeRepeticao\obj\Debug\netcoreapp3.1\LoopsDeRepeticao.csprojAssemblyReference.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\LoopsDeRepeticao\obj\Debug\netcoreapp3.1\LoopsDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\LoopsDeRepeticao\obj\Debug\netcoreapp3.1\LoopsDeRepeticao.AssemblyInfo.cs
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\LoopsDeRepeticao\obj\Debug\netcoreapp3.1\LoopsDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\LoopsDeRepeticao\obj\Debug\netcoreapp3.1\LoopsDeRepeticao.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\LoopsDeRepeticao\obj\Debug\netcoreapp3.1\LoopsDeRepeticao.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\LoopsDeRepeticao\obj\Debug\netcoreapp3.1\LoopsDeRepeticao.genruntimeconfig.cache

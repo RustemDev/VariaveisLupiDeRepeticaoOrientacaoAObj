@@ -1,0 +1,13 @@
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.exe
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.deps.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.runtimeconfig.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.runtimeconfig.dev.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csprojAssemblyReference.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfoInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfo.cs
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.genruntimeconfig.cache
